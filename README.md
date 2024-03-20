@@ -15,8 +15,11 @@ The production system faces additional challenges and must operate uninterrupted
 
 
 https://github.com/mattborghi/mlops-specialization/tree/main
+
 https://github.com/kennethleungty/MLOps-Specialization-Notes
+
 https://github.com/haocai1992/MLOps-Specialization
+
 https://github.com/damminhtien/machine-learning-engineering-for-production-mlops-course-notes/blob/main/Course%201%3A%20Introduction%20to%20Machine%20Learning%20in%20Production/Week1.md
 
 ## Disclaimer
