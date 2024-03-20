@@ -13,6 +13,9 @@ The production system faces additional challenges and must operate uninterrupted
 - Course #4: [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops)
 
 
+## Disclaimer
+Copyright of all materials in this repository belongs to DeepLearning.AI, and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
+
 
 https://github.com/mattborghi/mlops-specialization/tree/main
 
@@ -21,6 +24,3 @@ https://github.com/kennethleungty/MLOps-Specialization-Notes
 https://github.com/haocai1992/MLOps-Specialization
 
 https://github.com/damminhtien/machine-learning-engineering-for-production-mlops-course-notes/blob/main/Course%201%3A%20Introduction%20to%20Machine%20Learning%20in%20Production/Week1.md
-
-## Disclaimer
-Copyright of all materials in this repository belongs to DeepLearning.AI, and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
