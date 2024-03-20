@@ -3,10 +3,10 @@
 
 
 
-- Course #1: [Introduction to Machine Learning in Production](https://www.coursera.org/programs/bosch-learning-program-8hold/learn/introduction-to-machine-learning-in-production?source=search)
-- Course #2: Machine Learning Data Lifecycle in Production
-- Course #3: Machine Learning Modeling Pipelines in Production
-- Course #4: Deploying Machine Learning Models in Production
+- Course #1: [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)
+- Course #2: [Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production?specialization=machine-learning-engineering-for-production-mlops)
+- Course #3: [Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops)
+- Course #4: [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops)
 
 
 
