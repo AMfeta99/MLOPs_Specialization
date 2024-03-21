@@ -16,5 +16,5 @@ The production system faces additional challenges and must operate uninterrupted
 ## Disclaimer
 Copyright of all materials in this repository belongs to DeepLearning.AI, and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
-## DeepLearning.AI public repository:
+### DeepLearning.AI repository:
 [Machine Learning for Production](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main)
