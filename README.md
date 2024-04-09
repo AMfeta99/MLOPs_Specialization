@@ -4,6 +4,7 @@ This repository is dedicated to small projects and some theoretical material tha
 My journey in this field began by taking the specialization offered by DeepLearning.ai. This offering offers complete, in-depth details to guide you from the introductory level to the most advanced techniques. It covers how to conceptualize, build, and maintain integrated systems that continuously operate in production. 
 
 The production system faces additional challenges and must operate uninterruptedly at minimum cost while producing maximum performance. In this specialization you are taught how to face them and use well-established tools and methodologies to do all this effectively and efficiently.
+##### Specialization Certificate: [Link]([https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3](https://www.coursera.org/account/accomplishments/specialization/VXSBJE9ZVNMC))
 
 ## Machine Learning Engineering for Production (MLOps) Specialization 
 
