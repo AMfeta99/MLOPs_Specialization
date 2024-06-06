@@ -1,4 +1,4 @@
-# MLOPs_Specialization
+# MLOPs Specialization
 This repository is dedicated to small projects and some theoretical material that I used to self-teach/learn MLOps Learning in a practical way. 
 
 My journey in this field began by taking the specialization offered by DeepLearning.ai. This offering offers complete, in-depth details to guide you from the introductory level to the most advanced techniques. It covers how to conceptualize, build, and maintain integrated systems that continuously operate in production. 
