@@ -19,5 +19,7 @@ Copyright of all materials in this repository belongs to DeepLearning.AI, and ca
 ### DeepLearning.AI repository:
 [Machine Learning for Production](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main)
 
+https://fullstackdeeplearning.com/course/2022/lecture-1-course-vision-and-when-to-use-ml/
+
 
 
