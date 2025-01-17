@@ -22,5 +22,6 @@ Copyright of all materials in this repository belongs to DeepLearning.AI, and ca
 https://fullstackdeeplearning.com/course/2022/lecture-1-course-vision-and-when-to-use-ml/
 
 https://fullstackdeeplearning.com/spring2021/lecture-6/
+https://fullstackdeeplearning.com/course/2022/lecture-2-development-infrastructure-and-tooling/#8-all-in-one
 
 
