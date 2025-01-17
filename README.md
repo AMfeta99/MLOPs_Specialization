@@ -23,5 +23,6 @@ https://fullstackdeeplearning.com/course/2022/lecture-1-course-vision-and-when-t
 
 https://fullstackdeeplearning.com/spring2021/lecture-6/
 https://fullstackdeeplearning.com/course/2022/lecture-2-development-infrastructure-and-tooling/#8-all-in-one
+https://bhashkarkunal.medium.com/ml-model-in-production-real-world-example-of-end-to-end-ml-pipeline-with-tensorflow-extended-tfx-34605048a121
 
 
